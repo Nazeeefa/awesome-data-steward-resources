@@ -4,6 +4,7 @@ A list of resources useful, for beginners and experts, to learn/revise knowledge
 ## How to Contribute
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-data-steward-resources/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-data-steward-resources/issues). Thank you.
 
+## Resources
 ### Web Services and Tools
 
 - [FAIRsFAIR Research Data Object Assessment Service](https://github.com/pangaea-data-publisher/fuji)
