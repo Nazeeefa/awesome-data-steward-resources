@@ -9,7 +9,7 @@ A list of resources useful for beginners to learn and experts to revise knowledg
 
 - [Developing an ELIXIR Software Management plan for use in Life Science Project](https://elixir-europe.org/events/webinar-software-management-plans)
 
-## Slides
+## Presentation Slides
 
 - [RO-Crate (FAIR Computational Workflows)](https://zenodo.org/record/4011999)
 
@@ -20,4 +20,4 @@ A list of resources useful for beginners to learn and experts to revise knowledg
 - [Foundational Practices of Research Data Management](https://riojournal.com/article/56508/)
 
 # How to Contribute
-
+Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-data-steward-resources/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-data-steward-resources/issues). Thank you.
