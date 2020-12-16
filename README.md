@@ -13,6 +13,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Foundational Practices of Research Data Management](https://riojournal.com/article/56508/)
 - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
   - [FAIR Principles](https://www.go-fair.org/fair-principles/)
+- [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
   
 ### Web Services and Tools
 
