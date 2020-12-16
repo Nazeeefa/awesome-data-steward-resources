@@ -15,11 +15,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [A graduate student perspective on overcoming barriers to interacting with open-source software](https://www.facetsjournal.com/doi/10.1139/facets-2019-0020)
 - [What senior academics can do to support reproducible and open research: a short, three-step guide](https://psyarxiv.com/jyfr7)
 - [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
+- [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
 
 ### Web Services and Tools
 
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
-- 
+- [liftrr - tool to containerize R Markdown documents](https://liftr.me/)
 
 ### Videos 🎥 & Presentation Slides 🖥
 
