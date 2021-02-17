@@ -17,6 +17,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
 - [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
+- [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure (de.NBI) exemplified by selected use cases](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 
 ### Web Services and Tools
 
