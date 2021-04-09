@@ -19,10 +19,11 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
 - [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure (de.NBI) exemplified by selected use cases](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 
-### Web Services and Tools
+### Web Sites/Services and Tools
 
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
+- [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 
 ### Videos 🎥 & Presentation Slides 🖥
 
