@@ -13,7 +13,6 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [FAIRness Literacy: The Achilles’ Heel of Applying FAIR Principles](https://datascience.codata.org/articles/10.5334/dsj-2020-032/)
 - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
   - [FAIR Principles](https://www.go-fair.org/fair-principles/)
-- [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure (de.NBI) exemplified by selected use cases](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 
 #### Data Management/Stewardship
 
