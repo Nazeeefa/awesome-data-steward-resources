@@ -1,5 +1,5 @@
 # awesome-data-steward-resources
-A list of resources useful, for beginners and experts (especially in the field of bioinformatics), to learn/revise knowledge about data stewardship.
+A list of resources, useful for beginners and experts especially those in the field of bioinformatics, to learn/revise knowledge about data stewardship.
 
 ## How to Contribute
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-data-steward-resources/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-data-steward-resources/issues). Thank you.
