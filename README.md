@@ -8,28 +8,29 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 ### Articles
 
-#### FAIR Principles
+#### FAIR Principles 🍀
 
 - [FAIRness Literacy: The Achilles’ Heel of Applying FAIR Principles](https://datascience.codata.org/articles/10.5334/dsj-2020-032/)
 - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
   - [FAIR Principles](https://www.go-fair.org/fair-principles/)
 
-#### Data Management/Stewardship
+#### Data Management/Stewardship ✨
 
 - [Foundational Practices of Research Data Management](https://riojournal.com/article/56508/)
 - [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
 
-#### Bioinformatics
+#### Bioinformatics 🧬
 
 - [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 - [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
 
 #### Miscellaneous
+
 - [A graduate student perspective on overcoming barriers to interacting with open-source software](https://www.facetsjournal.com/doi/10.1139/facets-2019-0020)
 - [What senior academics can do to support reproducible and open research: a short, three-step guide](https://psyarxiv.com/jyfr7)
 
-### Web Services/Tools
+### Web Services/Tools 🕸
 
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
