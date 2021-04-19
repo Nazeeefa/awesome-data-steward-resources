@@ -31,11 +31,13 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [A graduate student perspective on overcoming barriers to interacting with open-source software](https://www.facetsjournal.com/doi/10.1139/facets-2019-0020)
 - [What senior academics can do to support reproducible and open research: a short, three-step guide](https://psyarxiv.com/jyfr7)
 
-### Web Services/Tools 🕸
 
+### Services/GuideLines/Tools 🕸
+
+- [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
+- [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
-- [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 
 ### Videos 🎥 & Presentation Slides 🖥
 
