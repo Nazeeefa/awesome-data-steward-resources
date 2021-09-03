@@ -4,9 +4,9 @@ A list of resources, useful for beginners and experts especially those in the fi
 ## How to Contribute
 Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-data-steward-resources/pulls), or posting suggestions as [issues](https://github.com/Nazeeefa/awesome-data-steward-resources/issues). Thank you.
 
-## Resources
+#
 
-### Articles
+## Articles
 
 #### FAIR Principles 🍀
 
@@ -34,6 +34,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [A graduate student perspective on overcoming barriers to interacting with open-source software](https://www.facetsjournal.com/doi/10.1139/facets-2019-0020)
 - [What senior academics can do to support reproducible and open research: a short, three-step guide](https://psyarxiv.com/jyfr7)
 
+#
 
 ### Services/GuideLines/Tools 🕸
 
