@@ -22,6 +22,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 #### Bioinformatics 🧬
 
+- [Mapping single-cell data to reference atlases by transfer learning](https://www.nature.com/articles/s41587-021-01001-7)
 - [Open Data Practices among Users of Primary Biodiversity Data](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab072/6348370)
 - [Reproducibility standards for machine learning in the life sciences](https://www.nature.com/articles/s41592-021-01256-7)
 - [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
