@@ -43,6 +43,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
 - [METAGENOTE: a simplified web platform for metadata annotation of genomic samples and streamlined submission to NCBI’s sequence read archive](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03694-0)
+- [EMBL-EBI Ontology Xref Service (OxO)](https://www.ebi.ac.uk/spot/oxo/)
 
 ### Videos 🎥 & Presentation Slides 🖥
 
