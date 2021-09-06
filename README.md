@@ -42,6 +42,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
+- [METAGENOTE: a simplified web platform for metadata annotation of genomic samples and streamlined submission to NCBI’s sequence read archive](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03694-0)
 
 ### Videos 🎥 & Presentation Slides 🖥
 
