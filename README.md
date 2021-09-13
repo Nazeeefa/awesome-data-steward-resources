@@ -19,6 +19,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 - [Foundational Practices of Research Data Management](https://riojournal.com/article/56508/)
 - [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
+- [Using “Big Data” in the Cost-Effectiveness Analysis of Next-Generation Sequencing Technologies: Challenges and Potential Solutions](https://www.valueinhealthjournal.com/article/S1098-3015(18)32265-4/fulltext) - covers data collection and management challenges
 
 #### Bioinformatics 🧬
 
