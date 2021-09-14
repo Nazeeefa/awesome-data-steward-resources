@@ -13,7 +13,6 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Taking a fresh look at FAIR for research software](https://doi.org/10.1016/j.patter.2021.100222)
 - [FAIRness Literacy: The Achilles’ Heel of Applying FAIR Principles](https://datascience.codata.org/articles/10.5334/dsj-2020-032/)
 - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
-  - [FAIR Principles](https://www.go-fair.org/fair-principles/)
 
 #### Data Management/Stewardship ✨
 
@@ -21,7 +20,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
 - [Using “Big Data” in the Cost-Effectiveness Analysis of Next-Generation Sequencing Technologies: Challenges and Potential Solutions](https://www.valueinhealthjournal.com/article/S1098-3015(18)32265-4/fulltext) - covers data collection and management challenges
 
-#### Bioinformatics 🧬
+#### Bioinformatics / Computational Biology 🧬
 
 - [Mapping single-cell data to reference atlases by transfer learning](https://www.nature.com/articles/s41587-021-01001-7)
 - [Open Data Practices among Users of Primary Biodiversity Data](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab072/6348370)
@@ -29,6 +28,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 - [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
+- [The role of metadata in reproducible computational research](https://www.cell.com/patterns/pdf/S2666-3899(21)00170-7.pdf) - PDF File
 
 #### Miscellaneous
 
