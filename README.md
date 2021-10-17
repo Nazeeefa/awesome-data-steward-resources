@@ -19,8 +19,9 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Foundational Practices of Research Data Management](https://riojournal.com/article/56508/)
 - [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
 - [Using “Big Data” in the Cost-Effectiveness Analysis of Next-Generation Sequencing Technologies: Challenges and Potential Solutions](https://www.valueinhealthjournal.com/article/S1098-3015(18)32265-4/fulltext) - covers data collection and management challenges
+- [Moving towards reproducible machine learning]()
 
-#### Bioinformatics / Computational Biology 🧬
+#### Life Sciences: Computational Research 🧬
 
 - [Mapping single-cell data to reference atlases by transfer learning](https://www.nature.com/articles/s41587-021-01001-7)
 - [Open Data Practices among Users of Primary Biodiversity Data](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab072/6348370)
@@ -29,6 +30,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
 - [The role of metadata in reproducible computational research](https://www.cell.com/patterns/pdf/S2666-3899(21)00170-7.pdf) - PDF File
+- [FAIRly big: A framework for computationally reproducible processing of large-scale data](https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1)
 
 #### Miscellaneous
 
@@ -37,7 +39,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 #
 
-### Services/GuideLines/Tools 🕸
+### Tools and GuideLines 🕸
 
 - [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
 - [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
