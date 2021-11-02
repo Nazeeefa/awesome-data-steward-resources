@@ -41,6 +41,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 ### Tools and GuideLines 🕸
 
+- [BAMboozle removes genetic variation from human sequence data for open data sharing](https://www.nature.com/articles/s41467-021-26152-8)
 - [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
 - [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
