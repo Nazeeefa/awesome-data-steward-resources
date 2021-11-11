@@ -19,7 +19,6 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 #### Data Management/Stewardship ✨
 
 - [Foundational Practices of Research Data Management](https://riojournal.com/article/56508/)
-- [Progress on Data Stewardship Wizard during BioHackathon Europe 2020](https://biohackrxiv.org/9mnkb/)
 - [Open Data Practices among Users of Primary Biodiversity Data](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab072/6348370)
 
 #### Life Sciences: Computational Research 🧬
