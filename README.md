@@ -41,11 +41,14 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 #
 
-### Tools and GuideLines 🕸
+### GuideLines 🕸
+
+- [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
+
+### Computational Tools for FAIR Data 🛠
 
 - [BAMboozle removes genetic variation from human sequence data for open data sharing](https://www.nature.com/articles/s41467-021-26152-8)
 - [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
-- [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
 - [METAGENOTE: a simplified web platform for metadata annotation of genomic samples and streamlined submission to NCBI’s sequence read archive](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03694-0)
