@@ -6,6 +6,14 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 #
 
+## Key
+
+- Videos 🎥 
+- GuideLines 🕸
+- FAIR Principles 🍀
+- Presentation Slides 🖥
+- Computational Tools 🛠
+
 ## Articles
 
 ### FAIR Principles 🍀
@@ -55,7 +63,4 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [METAGENOTE: a simplified web platform for metadata annotation of genomic samples and streamlined submission to NCBI’s sequence read archive](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03694-0)
 - [EMBL-EBI Ontology Xref Service (OxO)](https://www.ebi.ac.uk/spot/oxo/)
 - [BioAnnotate](https://github.com/ababaian/BioAnnotate)
-
-### Videos 🎥 & Presentation Slides 🖥
-
 - 🖥 [RO-Crate (FAIR Computational Workflows)](https://zenodo.org/record/4011999)
