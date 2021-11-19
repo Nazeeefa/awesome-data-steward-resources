@@ -44,11 +44,12 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 ### GuideLines 🕸
 
 - [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
+- [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
+- 🎥 [Developing an ELIXIR Software Management plan for use in Life Science Project](https://elixir-europe.org/events/webinar-software-management-plans)
 
 ### Computational Tools for FAIR Data 🛠
 
 - [BAMboozle removes genetic variation from human sequence data for open data sharing](https://www.nature.com/articles/s41467-021-26152-8)
-- [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
 - [METAGENOTE: a simplified web platform for metadata annotation of genomic samples and streamlined submission to NCBI’s sequence read archive](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03694-0)
@@ -57,5 +58,4 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 ### Videos 🎥 & Presentation Slides 🖥
 
-- 🎥 [Developing an ELIXIR Software Management plan for use in Life Science Project](https://elixir-europe.org/events/webinar-software-management-plans)
 - 🖥 [RO-Crate (FAIR Computational Workflows)](https://zenodo.org/record/4011999)
