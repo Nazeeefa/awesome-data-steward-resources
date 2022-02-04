@@ -21,7 +21,6 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Taking a fresh look at FAIR for research software](https://doi.org/10.1016/j.patter.2021.100222)
 - [FAIRness Literacy: The Achilles’ Heel of Applying FAIR Principles](https://datascience.codata.org/articles/10.5334/dsj-2020-032/)
 - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
-- [5 rules for good data management in the life sciences](https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences) 
 
 ### Data Management/Stewardship ✨
 
@@ -65,3 +64,4 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [EMBL-EBI Ontology Xref Service (OxO)](https://www.ebi.ac.uk/spot/oxo/)
 - [BioAnnotate](https://github.com/ababaian/BioAnnotate)
 - 🖥 [RO-Crate (FAIR Computational Workflows)](https://zenodo.org/record/4011999)
+- [MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community](https://www.nature.com/articles/s41592-021-01288-z) 
