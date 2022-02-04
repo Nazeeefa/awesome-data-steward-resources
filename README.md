@@ -29,7 +29,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 ### Life Sciences: General Articles 🧬
 
-- - [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
+- [5 rules for good data management in the life sciences](https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences) 
+- [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 - [FAIRly big: A framework for computationally reproducible processing of large-scale data](https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1)
 - [Using “Big Data” in the Cost-Effectiveness Analysis of Next-Generation Sequencing Technologies: Challenges and Potential Solutions](https://www.valueinhealthjournal.com/article/S1098-3015(18)32265-4/fulltext) - covers data collection and management challenges
 - [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
