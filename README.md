@@ -21,6 +21,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Taking a fresh look at FAIR for research software](https://doi.org/10.1016/j.patter.2021.100222)
 - [FAIRness Literacy: The Achilles’ Heel of Applying FAIR Principles](https://datascience.codata.org/articles/10.5334/dsj-2020-032/)
 - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+- [5 rules for good data management in the life sciences](https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences) 
 
 ### Data Management/Stewardship ✨
 
