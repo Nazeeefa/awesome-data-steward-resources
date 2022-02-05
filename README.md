@@ -38,7 +38,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 #### Life Sciences: Domain-Specific
 
--
+- Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 - [Mapping single-cell data to reference atlases by transfer learning](https://www.nature.com/articles/s41587-021-01001-7)
 - [Reproducibility standards for machine learning in the life sciences](https://www.nature.com/articles/s41592-021-01256-7)
 - [Moving towards reproducible machine learning](https://www.nature.com/articles/s43588-021-00152-6)
