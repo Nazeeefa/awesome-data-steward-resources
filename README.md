@@ -52,6 +52,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 ### GuideLines 🕸
 
+#
+
 - [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 - [Top 10 FAIR Data & Software Things](https://librarycarpentry.org/Top-10-FAIR/)
 - 🎥 [Developing an ELIXIR Software Management plan for use in Life Science Project](https://elixir-europe.org/events/webinar-software-management-plans)
