@@ -61,6 +61,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 ### Computational Tools for FAIR Data 🛠
 
+- https://www.nature.com/articles/s41587-021-01206-w
 - [BAMboozle removes genetic variation from human sequence data for open data sharing](https://www.nature.com/articles/s41467-021-26152-8)
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
