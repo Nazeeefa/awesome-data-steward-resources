@@ -36,8 +36,9 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
 - [The role of metadata in reproducible computational research](https://www.cell.com/patterns/pdf/S2666-3899(21)00170-7.pdf) - PDF File
 
-#### Life Sciences: Domain-Specific
+#### Bioinformatics: Domain-Specific
 
+- [Road to FAIR genomes: a gap Analyse of NGS data generation and sharing in the Netherlands](https://pubmed.ncbi.nlm.nih.gov/35505836/)
 - [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
 - [Mapping single-cell data to reference atlases by transfer learning](https://www.nature.com/articles/s41587-021-01001-7)
 - [Reproducibility standards for machine learning in the life sciences](https://www.nature.com/articles/s41592-021-01256-7)
