@@ -71,3 +71,4 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [BioAnnotate](https://github.com/ababaian/BioAnnotate)
 - 🖥 [RO-Crate (FAIR Computational Workflows)](https://zenodo.org/record/4011999)
 - [MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community](https://www.nature.com/articles/s41592-021-01288-z) 
+- [The FAANG Data Portal: Global, Open-Access, "FAIR", and Richly Validated Genotype to Phenotype Data for High-Quality Functional Annotation of Animal Genomes.](https://www.frontiersin.org/articles/10.3389/fgene.2021.639238/full)
