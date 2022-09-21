@@ -35,6 +35,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Experimenting with reproducibility: a case study of robustness in bioinformatics](https://academic.oup.com/gigascience/article/7/7/giy077/5046609)
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
 - [The role of metadata in reproducible computational research](https://www.cell.com/patterns/pdf/S2666-3899(21)00170-7.pdf) - PDF File
+- [Harmonizing semantic annotations for computational models in biology](https://academic.oup.com/bib/article/20/2/540/5164345)
 
 #### Bioinformatics: Domain-Specific
 
