@@ -27,6 +27,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 
 - [Foundational Practices of Research Data Management](https://riojournal.com/article/56508/)
 - [Open Data Practices among Users of Primary Biodiversity Data](https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab072/6348370)
+- 💻 [Data Steward Career Survey, ELIXIR Europe](https://drive.google.com/file/d/1vPctZGJHLWZQwdDb47XyS-m6-ZeTx6aq/view?usp=sharing)
 
 ### Life Sciences: General Articles 🧬
 
