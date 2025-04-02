@@ -41,6 +41,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Comparability and reproducibility of biomedical data ](https://academic.oup.com/bib/article/14/4/391/192999)
 - [The role of metadata in reproducible computational research](https://www.cell.com/patterns/pdf/S2666-3899(21)00170-7.pdf) - PDF File
 - [Harmonizing semantic annotations for computational models in biology](https://academic.oup.com/bib/article/20/2/540/5164345)
+- [Purpose definition as a crucial step for determining the legal basis under the GDPR: implications for scientific research](https://academic.oup.com/jlb/article/11/1/lsae001/7595866)
 
 #### Bioinformatics: Domain-Specific
 
