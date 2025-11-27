@@ -32,7 +32,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - 💻 🐼 [ELIXIR's RDM Knowledge Source (RDMkit)](https://docs.google.com/presentation/d/1D7F6Ok8xTTzDcyCsLTk9VHSzyJSzItqSwtJEp88J5wQ/edit?usp=sharing)
 
 
-### Life Sciences: General Articles 🧬
+### Life Sciences: General Articles 🌱
 
 - [5 rules for good data management in the life sciences](https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences) 
 - [FAIRly big: A framework for computationally reproducible processing of large-scale data](https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1)
@@ -43,7 +43,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Harmonizing semantic annotations for computational models in biology](https://academic.oup.com/bib/article/20/2/540/5164345)
 - [Purpose definition as a crucial step for determining the legal basis under the GDPR: implications for scientific research](https://academic.oup.com/jlb/article/11/1/lsae001/7595866)
 
-#### Bioinformatics: Domain-Specific
+#### Bioinformatics: Domain-Specific 🧬
 
 - [Road to FAIR genomes: a gap Analyse of NGS data generation and sharing in the Netherlands](https://pubmed.ncbi.nlm.nih.gov/35505836/)
 - [Implementing FAIR data management within the German Network for Bioinformatics Infrastructure](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab010/6135008)
