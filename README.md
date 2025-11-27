@@ -13,6 +13,8 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - FAIR Principles 🍀
 - Presentation Slides 🖥
    - presented by Nazeefa 🐼 
+- Life Sciences 🌱
+- Bioinformatics 🧬
 - Computational Tools 🛠
 
 ## Articles
