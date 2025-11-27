@@ -34,7 +34,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - 💻 🐼 [ELIXIR's RDM Knowledge Source (RDMkit)](https://docs.google.com/presentation/d/1D7F6Ok8xTTzDcyCsLTk9VHSzyJSzItqSwtJEp88J5wQ/edit?usp=sharing)
 
 
-### Life Sciences: General Articles 🌱
+### Life Sciences 🌱
 
 - [5 rules for good data management in the life sciences](https://www.natureindex.com/news-blog/five-rules-for-good-data-management-in-the-life-sciences) 
 - [FAIRly big: A framework for computationally reproducible processing of large-scale data](https://www.biorxiv.org/content/10.1101/2021.10.12.464122v1)
