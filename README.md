@@ -15,7 +15,7 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
    - presented by Nazeefa 🐼 
 - Life Sciences 🌱
 - Bioinformatics 🧬
-- Computational Tools 🛠
+- FAIR Tools 🛠
 
 ## Articles
 
@@ -54,18 +54,13 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Moving towards reproducible machine learning](https://www.nature.com/articles/s43588-021-00152-6)
 - [Community curation of bioinformatics software and data resources](https://academic.oup.com/bib/article/21/5/1697/5560007)
 
-#### Bioinformatics: Tools for FAIR Data 🧬
+#### Bioinformatics: Tools for FAIR Data 🧬 🛠
 - [A Python library for probabilistic analysis of single-cell omics data](https://www.nature.com/articles/s41587-021-01206-w)
 - [BAMboozle removes genetic variation from human sequence data for open data sharing](https://www.nature.com/articles/s41467-021-26152-8)
 - [METAGENOTE: a simplified web platform for metadata annotation of genomic samples and streamlined submission to NCBI’s sequence read archive](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03694-0)
 - [EMBL-EBI Ontology Xref Service (OxO)](https://www.ebi.ac.uk/spot/oxo/)
 - [BioAnnotate](https://github.com/ababaian/BioAnnotate)
 - [The FAANG Data Portal: Global, Open-Access, "FAIR", and Richly Validated Genotype to Phenotype Data for High-Quality Functional Annotation of Animal Genomes.](https://www.frontiersin.org/articles/10.3389/fgene.2021.639238/full)
-
-### Miscellaneous
-
-- [A graduate student perspective on overcoming barriers to interacting with open-source software](https://www.facetsjournal.com/doi/10.1139/facets-2019-0020)
-- [What senior academics can do to support reproducible and open research: a short, three-step guide](https://psyarxiv.com/jyfr7)
 
 #
 
@@ -82,4 +77,11 @@ Contribute by submitting [pull requests](https://github.com/Nazeeefa/awesome-dat
 - [Tools to measure FAIRness](https://fairassist.org/#!/)
 - [liftr - tool to containerize R Markdown documents](https://liftr.me/)
 - 🖥 [RO-Crate (FAIR Computational Workflows)](https://zenodo.org/record/4011999)
-- [MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community](https://www.nature.com/articles/s41592-021-01288-z) 
+- [MDEmic: a metadata annotation tool to facilitate management of FAIR image data in the bioimaging community](https://www.nature.com/articles/s41592-021-01288-z)
+
+#
+
+### Miscellaneous
+
+- [A graduate student perspective on overcoming barriers to interacting with open-source software](https://www.facetsjournal.com/doi/10.1139/facets-2019-0020)
+- [What senior academics can do to support reproducible and open research: a short, three-step guide](https://psyarxiv.com/jyfr7) 
