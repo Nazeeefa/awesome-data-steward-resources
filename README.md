@@ -1,4 +1,4 @@
-# awesome-data-steward-resources-in-bioinformatics
+# awesome-data-steward
 A list of useful resources, for beginners and experts especially those in the field of bioinformatics, to learn/revise knowledge about data stewardship.
 
 ## How to Contribute
