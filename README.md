@@ -1,4 +1,4 @@
-# Awesome Data Steward for Bioinformatics
+# Awesome Data Steward for Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A list of useful resources, for beginners and experts especially those in the field of bioinformatics, to learn/revise knowledge about data stewardship.
 
 ## How to Contribute
